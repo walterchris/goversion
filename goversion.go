@@ -11,3 +11,7 @@ func World() string {
 func Solve() string {
 	return "solve"
 }
+
+func This() string {
+	return "This"
+}
