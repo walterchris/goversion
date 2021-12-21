@@ -19,3 +19,7 @@ func This() string {
 func Riddle() string {
 	return "Riddle"
 }
+
+func Help() string {
+	return "Help"
+}
