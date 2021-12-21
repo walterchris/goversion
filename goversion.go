@@ -7,3 +7,7 @@ func Hello() string {
 func World() string {
 	return "World"
 }
+
+func Solve() string {
+	return "solve"
+}
