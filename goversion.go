@@ -15,3 +15,7 @@ func Solve() string {
 func This() string {
 	return "This"
 }
+
+func Riddle() string {
+	return "Riddle"
+}
